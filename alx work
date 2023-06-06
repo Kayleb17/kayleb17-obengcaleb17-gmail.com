@@ -1,0 +1,4 @@
+git config --global user.name "Kayleb17"
+git config --global user.email "obengcaleb17@gmail.com"
+cd ~
+mkdir zeroday
